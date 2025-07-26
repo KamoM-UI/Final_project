@@ -22,3 +22,6 @@ Buy, sell, or trade seeds, produce, and farming tools directly through the app.
 
 🌍 Multilingual & Offline-Friendly
 Designed for low-bandwidth environments with local language support and offline content access.
+
+# Deployed App
+https://telloapp1.netlify.app/
